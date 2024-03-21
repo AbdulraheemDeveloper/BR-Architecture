@@ -1,0 +1,15 @@
+
+#hero-section{
+    background-image: url("../Assets/Images/architect.jpg");
+    min-height: 70vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom center;
+}
+
+#br-text{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+.architect-text{
+    letter-spacing: 3px;
+}
